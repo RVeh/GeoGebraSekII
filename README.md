@@ -1,8 +1,19 @@
-Hier finden Sie die Präsentation sowie sämtliche GeoGebra-Dateien.
-Weiterhin noch ...
-- zusätzliches Material zu einzelnen Themen,
-- zwei ausführliche Erläuterungen,
-- eine Seite aus dem Heft "Stochastik erkunden" (zentrale Befehle).
+Hier finden Sie Material zum Webinar:
+- die Präsentation
+   - 2025-03-12-GeoGebra-SekII-Vehling.pdf
+- sämtliche GeoGebra-Dateien
+   - GeoGebra.zip
+- zusätzliches Material zu einzelnen Inhalten
+  - StochastikSekII-Vehling.zip
+     - Binomial-SigmaUmgebung
+     - DifferenzTrifft
+     - Erläuterungen
+        - GeburtstagsproblemGeoGebra.pdf
+        - ÜberbuchungGeoGebra.pdf
+     - Konfidenzintervalle
+     - Normalverteilung
+     - Prognosintervalle
+     - Stochastik-erkunden-Auszug-Befehle
 
 Viel Erfolg und Freude beim Ausprobieren! 
 
