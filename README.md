@@ -20,10 +20,8 @@ Zusätzlich können die folgenden drei Python-Programme benutzt werden:
 - KI_Sim-Vehling.ipynb
 
 Sie sind auch ohne Installation in einem Browser lauffähig:
-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/HEAD/main?filepath=Eins-durch-Wurzel-n-PI-Vehling.ipynb)
+- Eins-durch-Wurzel-n-PI-Vehling.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/HEAD/main?filepath=Eins-durch-Wurzel-n-PI-Vehling.ipynb)
 
-     
-https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/HEAD
 
 Viel Erfolg und Freude beim Ausprobieren! 
 
