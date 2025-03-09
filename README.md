@@ -4,12 +4,11 @@ Hier finden Sie Material zum Webinar:
 - sämtliche GeoGebra-Dateien
    - GeoGebra.zip
 - zusätzliches Material zu einzelnen Inhalten
-  - StochastikSekII-Vehling.zip
+   - Geburtstagsproblem-GeoGebrabefehle.pdf
+   - Überbuchung-GeoGebrabefehle.pdf 
+   - Stochastik-SekII-Vehling.zip
      - Binomial-SigmaUmgebung
      - DifferenzTrifft
-     - Erläuterungen
-        - GeburtstagsproblemGeoGebra.pdf
-        - ÜberbuchungGeoGebra.pdf
      - Konfidenzintervalle
      - Normalverteilung
      - Prognosintervalle
