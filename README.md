@@ -15,16 +15,18 @@ Hier finden Sie Material zum Webinar:
      - Stochastik-erkunden-Auszug-Befehle
     
 Zusätzlich können die folgenden drei Python-Programme benutzt werden:
+- Hypothesentest-Ueberbuchung-Veh.ipynb
 - Eins-durch-Wurzel-n-PI-Vehling.ipynb
 - KI_Ellipse-Vehling.ipynb
 - KI_Sim-Vehling.ipynb
 
-Die drei Programme sind auch ohne Installation in einem Browser lauffähig:
+Die vier Programme sind auch ohne Installation in einem Browser lauffähig:
+- Hypothesentest-Ueberbuchung-Veh.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/main?filepath=Hypothesentest-Ueberbuchung-Veh.ipynb)
 - Eins-durch-Wurzel-n-PI-Vehling.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/main?filepath=Eins-durch-Wurzel-n-PI-Vehling.ipynb)
 - KI_Ellipse-Vehling.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/main?filepath=KI_Ellipse-Vehling.ipynb)
 - KI_Sim-Vehling.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/main?filepath=KI_Sim-Vehling.ipynb)
 
-Oder so: Alle drei Python-Programme zur Auswahl: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/HEAD)
+Oder so: Alle vier Python-Programme zur Auswahl: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/HEAD)
 
 Viel Erfolg und Freude beim Ausprobieren! 
 
