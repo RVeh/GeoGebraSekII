@@ -21,6 +21,8 @@ Zusätzlich können die folgenden drei Python-Programme benutzt werden:
 
 Sie sind auch ohne Installation in einem Browser lauffähig:
 - Eins-durch-Wurzel-n-PI-Vehling.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/HEAD/main?filepath=Eins-durch-Wurzel-n-PI-Vehling.ipynb)
+- KI_Ellipse-Vehling.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/HEAD/main?filepath=KI_Ellipse-Vehling.ipynb)
+- KI_Sim-Vehling.ipynb [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/HEAD/main?filepath=KI_Sim-Vehling.ipynb)
 
 
 Viel Erfolg und Freude beim Ausprobieren! 
