@@ -13,6 +13,16 @@ Hier finden Sie Material zum Webinar:
      - Normalverteilung
      - Prognosintervalle
      - Stochastik-erkunden-Auszug-Befehle
+    
+Zusätzlich können die folgenden drei Python-Programme benutzt werden:
+- Eins-durch-Wurzel-n-PI-Vehling.ipynb
+- KI_Ellipse-Vehling.ipynb
+- KI_Sim-Vehling.ipynb
+
+Sie sind auch ohne Installation in einem Browser lauffähig:
+- 
+     
+
 
 Viel Erfolg und Freude beim Ausprobieren! 
 
