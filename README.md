@@ -14,7 +14,7 @@ Hier finden Sie Material zum Webinar:
      - Prognosintervalle
      - Stochastik-erkunden-Auszug-Befehle
     
-Zusätzlich können die folgenden drei Python-Programme benutzt werden:
+Zusätzlich können die folgenden vier Python-Programme benutzt werden:
 - Hypothesentest-Ueberbuchung-Veh.ipynb
 - Eins-durch-Wurzel-n-PI-Vehling.ipynb
 - KI_Ellipse-Vehling.ipynb
