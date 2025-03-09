@@ -24,8 +24,7 @@ Die drei Programme sind auch ohne Installation in einem Browser lauffähig:
 - KI_Ellipse-Vehling.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/main?filepath=KI_Ellipse-Vehling.ipynb)
 - KI_Sim-Vehling.ipynb: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/main?filepath=KI_Sim-Vehling.ipynb)
 
-Oder so: alle drei Python-Programme zur Auswahl:
-Python-Programme: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/HEAD)
+Oder so: Alle drei Python-Programme zur Auswahl: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RVeh/GeoGebraSekII/HEAD)
 
 Viel Erfolg und Freude beim Ausprobieren! 
 
