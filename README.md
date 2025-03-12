@@ -1,6 +1,6 @@
 Hier finden Sie Material zum Webinar:
 - die Präsentation
-   - 2025-03-12-GeoGebra-SekII-Vehling.pdf
+   - 2025-03-12-GeoGebra-SekII-Vehling.pdf.zip
 - sämtliche GeoGebra-Dateien
    - GeoGebra.zip
 - zusätzliches Material zu einzelnen Inhalten
